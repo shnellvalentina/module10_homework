@@ -1,0 +1,13 @@
+button {
+    background-color: lemonchiffon;
+    color: darkcyan;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 15px;
+    cursor: pointer;
+    transition: transform 0.2s ease-in-out;
+}
+
+button:hover {
+    transform: scale(1.1);
+}
